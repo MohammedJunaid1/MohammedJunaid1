@@ -1,4 +1,4 @@
-# Hello, World! It's Mohd Junaid👋
+# Hello, World! It's Mohammed Junaid👋
 # 💫 Another Frontend Developer
 
 **Welcome to my GitHub profile!** I'm an avid coder, problem solver, and explorer of the digital realm. With a passion for innovation and a penchant for crafting elegant solutions, I'm on a mission to make the world of code a better place, one project at a time.
